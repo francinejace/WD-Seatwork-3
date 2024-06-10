@@ -5,12 +5,16 @@
     color: antiquewhite;
 }
 
-.container img {
+.container {
     
-    padding: 5rem;
+    padding: 5rem; 
     background: rgb(91,77,34);
     background: radial-gradient(circle, rgba(91,77,34,1) 5%, 
     rgba(150,126,52,1) 54%);
+}
+
+.container img {
+    align-items: flex-start;
 }
 
 .content {
