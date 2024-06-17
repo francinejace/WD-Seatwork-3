@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 h2 {
-    margin-top: 0.5rem;;
+    margin-top: 0.5rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,7 +32,7 @@ section {
 
 header {
     width: 95%;
-    height: 9vh;
+    height: 5rem;
     display: flex;
     background-color: black;
 
@@ -52,14 +52,37 @@ header {
     }
 }
 
-.right-nav i {
-    color:aliceblue;
+.right-nav {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 30rem;
+    font-family: Arial, Helvetica, sans-serif;
+
+    & > a {
+    color: aliceblue;
+    margin-left: -5px;
+    text-decoration: none;
+
+    & > h4 {
+        display: flex;
+        justify-content: center;
+        margin-top: -18px;
+        margin-left: 40px;
+    }
+    }
+
+    & > i {
+    color: aliceblue;
+    margin: 0 10px;
+    }
 }
 
 img {
     padding: 5px;
     margin-top: 5px;
     display: flex;
-    max-width: 10vw; /* Adjust the size of the image */
-    height: 4rem; /* Maintain aspect ratio */
+    max-width: 10vw;
+    height: 4rem;
 }
+
