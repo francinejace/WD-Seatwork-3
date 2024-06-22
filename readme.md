@@ -90,7 +90,7 @@ Guiding Question:
 7. File Structure to follow below.
 
 ```
-WD-ProjectName
+WD-Seatwork-3
 └─ assets
 |   └─ css
 |   |   └─ style.css
@@ -99,7 +99,16 @@ WD-ProjectName
 |   └─ js
 |       └─ script.js
 └─ pages
-|  └─ pageName
+|  └─ headers
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
+|     |  └─ js
+|     |     └─ script.js
+|     └─ index.html
+|  └─ footers
 |     └─ assets
 |     |  └─ css
 |     |  |  └─ style.css
