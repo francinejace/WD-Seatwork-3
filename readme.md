@@ -126,4 +126,4 @@ WD-Seatwork-3
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| MTG | Static Header Inspiration 1 | https://magic.wizards.com/en |
