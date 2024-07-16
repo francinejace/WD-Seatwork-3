@@ -47,22 +47,10 @@
 
 This project showcases various styles of headers and footers that can be used in websites. The styles include static and animated designs to provide a diverse range of options for web developers. Each design is implemented using HTML and CSS.
 
-Guiding Questions:
-- **What is the project?**
-  The project is a collection of header and footer designs for websites, demonstrating different styles and animation techniques.
-
-- **What’s the purpose?**
-  The purpose is to provide a reference for web developers on how to create visually appealing and functional headers and footers using HTML and CSS.
-
-- **What are the key components?**
-  The key components are the header and footer sections of a webpage, including static and animated versions.
-
-- **What technology is used and how is it used?**
-  The technologies used are HTML for the structure of the web pages and CSS for styling and animations.
-
 ### Key Components
 
 - Multi-Page Website/Single Page Website
+- Static and Animated Headers & Footers
 
 ### Technology
 
